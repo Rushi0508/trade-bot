@@ -1,0 +1,11 @@
+{
+  "stockName": "NIFTY",
+  "stockId": "NIFTY",
+  "data": [
+    {
+      "date": "2021-01-01",
+      "signal": "BUY",
+      "closePrice": 100
+    }
+  ]
+}
